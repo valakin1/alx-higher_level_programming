@@ -66,4 +66,4 @@ class Rectangle:
                 to_print += '#'
             if col != self.height - 1:
                 to_print += '\n'
-        return 
+        return to_print
